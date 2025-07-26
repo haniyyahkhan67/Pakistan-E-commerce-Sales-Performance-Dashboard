@@ -59,3 +59,5 @@ Navigate between report pages to explore various aspects of the e-commerce sales
 Conclusion
 This dashboard helps stakeholders gain a better understanding of the online retail performance in Pakistan by transforming raw sales data into meaningful insights. It serves as a decision-support tool for marketing, sales, and product teams to optimize strategies and improve customer experience.
 
+Dashboard image: https://github.com/haniyyahkhan67/Pakistan-E-commerce-Sales-Performance-Dashboard/blob/main/Dashboard.png
+
